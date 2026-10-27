@@ -1,6 +1,6 @@
-# Mouse-issue-Watch-Dogs
 
+# Mouse-issue-Watch-Dogs
 
 ## Video Demo
 
-[![Watch Video](thumbnail.png)](https://youtu.be/Vl4-h2pjMLI)
+[![Watch Video](https://i.ytimg.com/vi/Vl4-h2pjMLI/0.jpg)](https://youtu.be/Vl4-h2pjMLI)
